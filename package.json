@@ -1,0 +1,12 @@
+{
+  "name": "mbc",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "azure": "^2.3.1-preview",
+    "inquirer": "^6.3.1"
+  }
+}
